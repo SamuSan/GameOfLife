@@ -1,6 +1,5 @@
 require_relative 'god'
 require_relative 'grub'
-require 'set'
 require 'tk'
 
 
