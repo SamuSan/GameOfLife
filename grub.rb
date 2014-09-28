@@ -1,4 +1,4 @@
-require_relative 'point'
+
 class Grub
   def initialize(xPos, yPos, alive)
     @x =xPos
