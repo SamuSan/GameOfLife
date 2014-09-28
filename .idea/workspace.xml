@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="552c6788-56ae-4e5a-844a-16db1294f9c8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/point.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grub.rb" afterPath="$PROJECT_DIR$/grub.rb" />
-    </list>
+    <list default="true" id="552c6788-56ae-4e5a-844a-16db1294f9c8" name="Default" comment="" />
     <ignored path="GameOfLife.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
